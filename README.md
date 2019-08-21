@@ -3,6 +3,4 @@ This is a mybb plugin and is created in order to help someone in mybb on noticin
 
 Developer : EscortPay
 
-Developer Website : http://www.mybbsupport.ml/
-
 You can't copy any contents without my permission .
